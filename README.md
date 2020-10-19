@@ -27,7 +27,7 @@ Currently using C# for the most of my projects. ❤️ Interested in Desktop App
 <a href="https://discord.gg/zj3VUqc"><img src="https://img.shields.io/badge/VKALFY TEAM%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/11227499/mostafa-mohamed"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/vk0x65"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a></p>
-<p align='center'><a href="https://github.com/vk0x65/vk0x65/tree/main/Ask"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge"></a></p>
+<p align='center'><a href="https://github.com/vk0x65/vk0x65/blob/main/Ask/README.md"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge"></a></p>
 
 
 ## Donate 💸 ##
