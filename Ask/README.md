@@ -23,6 +23,5 @@ Cooking. Traveling. Sports. Teaching. Pokémon. Whatever. :joy:
 
 ### Links
 
- - [What's an AMA?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
  - [Follow Me on Twitter.](https://twitter.com/vk0x65)
  - [Follow Me on Github.](https://github.com/vk0x65)
