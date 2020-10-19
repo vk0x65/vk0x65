@@ -43,10 +43,9 @@ Currently using C# for the most of my projects. ❤️ Interested in Desktop App
 
 
 ## Donate Me 💸 ##
-<p align='center'>
-<a href="https://paypal.me/MostafaMElAlfy?locale.x=ar_EG"><img height="30" src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" alt="paypal.me/MostafaMElAlfy"></a>    https://paypal.me/MostafaMElAlfy  &nbsp;
+<a href="https://paypal.me/MostafaMElAlfy?locale.x=ar_EG"><img height="30" src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" alt="paypal.me/MostafaMElAlfy"></a>    https://paypal.me/MostafaMElAlfy
 <br>
-<a href="https://www.coinbase.com/price"><img height="30" src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" alt="Donate by BitCoin on : 322UonT1QdyDgLbDQmLrrRMgd48TcYCyMf"></a>    322UonT1QdyDgLbDQmLrrRMgd48TcYCyMf </p>
+<a href="https://www.coinbase.com/price"><img height="30" src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" alt="Donate by BitCoin on : 322UonT1QdyDgLbDQmLrrRMgd48TcYCyMf"></a>    322UonT1QdyDgLbDQmLrrRMgd48TcYCyMf
 
 
 ## Latest Statistics 📊 ##
