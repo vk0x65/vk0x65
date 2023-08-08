@@ -120,7 +120,7 @@ Software Tester
 <a href="mailto:vk0x65@protonmail.com"><img height="30" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"</a></p>
 <p align='center'>
 <a href="https://www.youtube.com/channel/UCd3TA7R_P5NH6i7gXklsR1A"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://discord.gg/UMN283HPUF"><img src="https://img.shields.io/badge/ALFY DISCORD SERVER%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://discord.gg/pa975sTdfG"><img src="https://img.shields.io/badge/ALFY DISCORD SERVER%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/11227499/vk0x65"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/vk0x65"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a></p>
 
