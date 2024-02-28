@@ -140,16 +140,13 @@ Software Tester
 <p align='center'>
 <p align="center"><img href="https://twitter.com/vk0x65" src="https://i.imgur.com/JLH0EDw.gif"></p>
 
-<a href="https://twitter.com/vk0x65"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>&nbsp;&nbsp;
-<a href="https://GitHub.com/vk0x65/"><img src="http://ForTheBadge.com/images/badges/makes-people-smile.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
-
-<br/>
-
-<p align='center'><img src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge">&nbsp; &nbsp;<img src="https://gpvc.arturio.dev/vk0x65"/><p/>
+<a href="https://twitter.com/vk0x65"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://GitHub.com/vk0x65/"><img src="http://ForTheBadge.com/images/badges/makes-people-smile.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </div> 
-
-<br/>
+<div align="center">
+ 
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=vk0x65&&label=PROFILE+VIEWS&style=for-the-badge&color=blue&base=103296)
+</div>
 
 ![logo](https://i.imgur.com/EsmKlPi.gif)
-
 <br/>
