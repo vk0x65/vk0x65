@@ -77,17 +77,22 @@ I'm a highly talented full stack web developer with a track record of favourably
 
 <br/>  
 
+<div align="center"> 
+ 
 ![WORD](https://img.shields.io/badge/Microsoft%20Word-2B579A?logo=microsoft-word&logoColor=white&style=for-the-badge)
 ![EXCEL](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge )
 ![ACCESS](https://img.shields.io/badge/Microsoft%20Access-A4373A?logo=microsoft-access&logoColor=white&style=for-the-badge)
-![POWERPOINT](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge)
+![POWERPOINT](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white&style=for-the-badge) 
+</div> 
 
 ### Operating Systems
 
+<div align="center"> 
+ 
 ![Win](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![IOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge)
-
+</div> 
 <br/>  
 
 ## Education
@@ -126,10 +131,8 @@ Software Tester
 
 
 ## Donate Me 💸 ##
-<a href="https://paypal.me/MostafaMElAlfy?locale.x=ar_EG"><img height="30" src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" alt="paypal.me/MostafaMElAlfy"></a>    https://paypal.me/MostafaMElAlfy
+<a href="https://paypal.me/MostafaMElAlfy?locale.x=ar_EG"><img height="30" src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" alt="paypal.me/MostafaMElAlfy"></a>
 <br/>
-<a href="https://www.coinbase.com/price"><img height="30" src="https://img.shields.io/badge/bitcoin-%23000000.svg?&style=for-the-badge&logo=bitcoin&logoColor=white" alt="Donate by BitCoin on : 322UonT1QdyDgLbDQmLrrRMgd48TcYCyMf"></a>    322UonT1QdyDgLbDQmLrrRMgd48TcYCyMf
-
 
 ## Statistics 📊 ## 
 <div align="center"> 
@@ -138,7 +141,7 @@ Software Tester
 <img src="https://github-readme-stats.vercel.app/api?username=vk0x65&show_icons=true&count_private=true&hide_border=true" align="center" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vk0x65&" alt="vk0x65" /></p>
 <p align='center'>
-<p align="center"><img href="https://twitter.com/vk0x65" src="https://i.imgur.com/JLH0EDw.gif"></p>
+<!-- <p align="center"><img href="https://twitter.com/vk0x65" src="https://i.imgur.com/JLH0EDw.gif"></p> -->
 
 <a href="https://twitter.com/vk0x65"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://GitHub.com/vk0x65/"><img src="http://ForTheBadge.com/images/badges/makes-people-smile.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -149,6 +152,4 @@ Software Tester
  
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=vk0x65&&label=PROFILE+VIEWS&style=for-the-badge&color=blue&base=103296)
 </div>
-
-![logo](https://i.imgur.com/EsmKlPi.gif)
 <br/>
