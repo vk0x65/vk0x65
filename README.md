@@ -145,6 +145,8 @@ Software Tester
 </div> 
 <div align="center">
  
+![VISITORS](https://api.visitorbadge.io/api/VisitorHit?user=vk0x65&countColorcountColor&countColor=%23007EC6)
+ 
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=vk0x65&&label=PROFILE+VIEWS&style=for-the-badge&color=blue&base=103296)
 </div>
 
