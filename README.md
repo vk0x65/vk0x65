@@ -102,9 +102,9 @@ I'm a highly talented full stack web developer with a track record of favourably
 <br/>  
 
 ## Education
-##### <div align="right">Sep 2019 - Present (Expected: Jun 2023)</div>  
+##### <div align="right">Sep 2019 - Jul 2023</div>  
 
-- **Bachelor’s Degree of Business Administration and Marketing.**  
+- **Bachelor’s Degree in Business Administration and Marketing.**  
 Faculty of Commerce - Zagazig University.  
 
 <br/>  
