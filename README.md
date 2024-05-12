@@ -5,15 +5,22 @@
 ### **<div align="center"> MOSTAFA MOHAMED  |  ALFY </div>**  
 #### <div align="center">Full Stack Web Developer | Cyber Security Engineer</div>  
 - Residence : Zagazig - Egypt
-- Age : 22Y
-- E-Mail : vk0x65@protonmail.com
+- Age : 23Y
+- Email : vk0x65@protonmail.com
 <br/>
 
 ## Objective
 I'm a highly talented full stack web developer with a track record of favourably affecting companies' results via innovative issue solutions, and I can combine my deep understanding of web design with my leadership skills to meet and exceed customer expectations.
 <br/><br/>
 
-## Technical skillls
+<div align="center">
+ 
+[![Discord Presence](https://lanyard.cnrad.dev/api/345050586389020673?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=ALFY%20is%20coding%20now...&showDisplayName=true&hideTimestamp=false&hideBadges=false&hideStatus=false)](https://discord.com/users/345050586389020673)
+
+<a href="https://discord.com/channels/@me/345050586389020673"> <img src="https://discord.c99.nl/widget/theme-3/345050586389020673.png" alt="Contact Me"></a>
+</div>
+
+## Technical skills
 ### Programming Languages
 <div align="center"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
@@ -139,6 +146,8 @@ Software Tester
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vk0x65&hide_border=true&layout=compact" align="center" />  
 <img src="https://github-readme-stats.vercel.app/api?username=vk0x65&show_icons=true&count_private=true&hide_border=true" align="center" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vk0x65&" alt="vk0x65" /></p>
+<p><img alt="Wakatime" src="https://wakatime.com/badge/user/f7f143df-22c5-4986-be50-76b777012db8.svg"></p>
+<!-- <img style="width: 50%;" src="https://wakatime.com/share/@vk0x65/623f5c82-92d1-48bd-b15e-6b5d63f1c4bb.png" alt="ALFY"> -->
 <p align='center'>
 <!-- <p align="center"><img href="https://twitter.com/vk0x65" src="https://i.imgur.com/JLH0EDw.gif"></p> -->
 
@@ -150,5 +159,7 @@ Software Tester
 ![VISITORS](https://api.visitorbadge.io/api/VisitorHit?user=vk0x65&countColorcountColor&countColor=%23007EC6)
  
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=vk0x65&&label=PROFILE+VIEWS&style=for-the-badge&color=blue&base=103296)
+
+<a href=#><img width="100%"  src="status.svg"></a>
 </div>
 <br/>
