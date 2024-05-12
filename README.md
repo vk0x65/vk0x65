@@ -149,18 +149,16 @@ Software Tester
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vk0x65&" alt="vk0x65" /></p>
 <p><img alt="Wakatime" src="https://wakatime.com/badge/user/f7f143df-22c5-4986-be50-76b777012db8.svg"></p>
 <!-- <img style="width: 50%;" src="https://wakatime.com/share/@vk0x65/623f5c82-92d1-48bd-b15e-6b5d63f1c4bb.png" alt="ALFY"> -->
-<p align='center'>
-<!-- <p align="center"><img href="https://twitter.com/vk0x65" src="https://i.imgur.com/JLH0EDw.gif"></p> -->
 
-<a href="https://twitter.com/vk0x65"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://GitHub.com/vk0x65/"><img src="http://ForTheBadge.com/images/badges/makes-people-smile.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-</div> 
-<div align="center">
- 
 ![VISITORS](https://api.visitorbadge.io/api/VisitorHit?user=vk0x65&countColorcountColor&countColor=%23007EC6)
  
 ![PROFILE VIEWS](https://komarev.com/ghpvc/?username=vk0x65&&label=PROFILE+VIEWS&style=for-the-badge&color=blue&base=103296)
 
 <a href=#><img width="100%"  src="status.svg"></a>
+
+<!-- <p align="center"><img href="https://twitter.com/vk0x65" src="https://i.imgur.com/JLH0EDw.gif"></p> -->
+
+<a href="https://twitter.com/vk0x65"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<!--<a href="https://GitHub.com/vk0x65/"><img src="http://ForTheBadge.com/images/badges/makes-people-smile.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> -->
 </div>
 <br/>
