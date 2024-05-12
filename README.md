@@ -11,7 +11,7 @@
 <br/>
 
 ## Objective
-I'm a highly talented full stack web developer with a track record of favourably affecting companies' results via innovative issue solutions, and I can combine my deep understanding of web design with my leadership skills to meet and exceed customer expectations.
+I'm a highly talented full-stack web developer with a track record of favorably affecting companies' results via innovative issue solutions, and I can combine my deep understanding of web design with my leadership skills to meet and exceed customer expectations.
 <br/><br/>
 
 <div align="center">
