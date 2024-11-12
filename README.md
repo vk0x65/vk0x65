@@ -16,8 +16,6 @@ I'm a highly talented full-stack web developer with a track record of favorably 
 
 <div align="center">
  
-[![Discord Presence](https://lanyard.cnrad.dev/api/345050586389020673?theme=dark&bg=212125&animated=true&borderRadius=30px&idleMessage=ALFY%20is%20coding%20now...&showDisplayName=true&hideTimestamp=false&hideBadges=false&hideStatus=false)](https://discord.com/users/345050586389020673)
-
 <a href="https://discord.com/channels/@me/345050586389020673"> <img src="https://discord.c99.nl/widget/theme-3/345050586389020673.png" alt="Contact Me"></a>
 </div>
 
