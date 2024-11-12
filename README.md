@@ -14,11 +14,6 @@
 I'm a highly talented full-stack web developer with a track record of favorably affecting companies' results via innovative issue solutions, and I can combine my deep understanding of web design with my leadership skills to meet and exceed customer expectations.
 <br/><br/>
 
-<div align="center">
- 
-<a href="https://discord.com/channels/@me/345050586389020673"> <img src="https://discord.c99.nl/widget/theme-3/345050586389020673.png" alt="Contact Me"></a>
-</div>
-
 ## Technical skills
 ### Programming Languages
 <div align="center"> 
