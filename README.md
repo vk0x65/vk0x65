@@ -4,7 +4,7 @@
 ## Personal Information
 ### **<div align="center"> MOSTAFA MOHAMED  |  ALFY </div>**  
 #### <div align="center">SOFTWARE ENGINEER</div>  
-#### <div align="center">Full Stack Web Developer | Cyber Security Engineer</div>  
+#### <div align="center">Full Stack Web Developer | Cyber Security Nerd</div>  
 - Residence : Zagazig - Egypt
 - Age : 24Y
 - Email : vk0x65@protonmail.com
@@ -106,8 +106,8 @@ Faculty of Commerce - Zagazig University.
 ## Work experience
 ##### <div align="right">Mar 2018 - Present</div>  
 
-- **KING MASTER**  
-Software Tester
+- **Udacity**  
+Front-End Session Lead & Mentor
 
 
 <br/> 
