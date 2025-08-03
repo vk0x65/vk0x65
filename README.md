@@ -104,7 +104,7 @@ Faculty of Commerce - Zagazig University.
 <br/>  
 
 ## Work experience
-##### <div align="right">Mar 2018 - Present</div>  
+##### <div align="right">Sep 2023 - Present</div>  
 
 - **Udacity**  
 Front-End Session Lead & Mentor
