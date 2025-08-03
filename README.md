@@ -11,7 +11,11 @@
 <br/>
 
 ## Objective
-I'm a highly talented full-stack web developer with a track record of favorably affecting companies' results via innovative issue solutions, and I can combine my deep understanding of web design with my leadership skills to meet and exceed customer expectations.
+Frontend Developer with 6+ years of experience in software engineering and +1 year in building scalable, user-centric web
+applications. Led cross-functional teams at Google, boosting productivity by 30% and improving application performance by
+25%. Spearheaded UI/UX enhancements that increased user engagement by 15%. Proficient in modern frameworks like React
+and TypeScript, with a strong focus on clean code, accessibility, and performance optimization. Combines technical expertise
+with leadership acumen to deliver impactful solutions.
 <br/><br/>
 
 ## Technical skills
