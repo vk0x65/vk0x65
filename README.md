@@ -1,4 +1,4 @@
-[![Header](https://i.imgur.com/leP3pd1.jpg)](https://twitter.com/vk0x65)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Mostafa%20Mohamed&fontSize=50&fontColor=fff&animation=fadeIn)
 <br/> 
 
 ## Personal Information
@@ -18,7 +18,7 @@ and TypeScript, with a strong focus on clean code, accessibility, and performanc
 with leadership acumen to deliver impactful solutions.
 <br/><br/>
 
-## Technical skills
+## Technical Skills
 ### Programming Languages
 <div align="center"> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
